@@ -15,9 +15,5 @@ const filtersSlice = createSlice({
   },
 });
 
-// Експортуємо генератори екшенів та редюсер
 export const { setStatusFilter } = filtersSlice.actions;
-console.log('setStatusFilter:', setStatusFilter);
-
-console.log('filtersSlice.actions:', filtersSlice.actions);
 export const filtersReducer = filtersSlice.reducer;
