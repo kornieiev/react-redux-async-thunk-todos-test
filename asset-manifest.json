@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-async-thunk-todos-test/static/css/main.86ec4dbb.css",
+    "main.js": "/react-redux-async-thunk-todos-test/static/js/main.79232ed3.js",
+    "index.html": "/react-redux-async-thunk-todos-test/index.html",
+    "main.86ec4dbb.css.map": "/react-redux-async-thunk-todos-test/static/css/main.86ec4dbb.css.map",
+    "main.79232ed3.js.map": "/react-redux-async-thunk-todos-test/static/js/main.79232ed3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ec4dbb.css",
+    "static/js/main.79232ed3.js"
+  ]
+}
